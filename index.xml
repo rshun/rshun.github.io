@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qing</title>
+    <link>https://rshun.github.io/</link>
+    <description>Recent content on Qing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 16 Jan 2023 15:34:57 +0800</lastBuildDate><atom:link href="https://rshun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>解决Hugo无法加载css文件</title>
+      <link>https://rshun.github.io/post/tech/hugo/</link>
+      <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
+      
+      <guid>https://rshun.github.io/post/tech/hugo/</guid>
+      <description>解决Hugo发布到Github的时候无法加载css文件 使用环境 开发环境: Windows 11 Hugo版本: 0.108 Git版本: 2.38.1 Theme: PaperMod 前要 上个月底想把荒废已久的bl</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

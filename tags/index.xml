@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Qing</title>
+    <link>https://rshun.github.io/tags/</link>
+    <description>Recent content in Tags on Qing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 16 Jan 2023 15:34:57 +0800</lastBuildDate><atom:link href="https://rshun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023</title>
+      <link>https://rshun.github.io/tags/2023/</link>
+      <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
+      
+      <guid>https://rshun.github.io/tags/2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://rshun.github.io/tags/git/</link>
+      <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
+      
+      <guid>https://rshun.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://rshun.github.io/tags/hugo/</link>
+      <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
+      
+      <guid>https://rshun.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
