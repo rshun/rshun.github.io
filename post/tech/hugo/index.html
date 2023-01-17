@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="中文" dir="auto">
+<html lang="zh" dir="auto">
 
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,7 +20,7 @@
 <link rel="mask-icon" href="https://rshun.github.io/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="中文" href="https://rshun.github.io/post/tech/hugo/">
+<link rel="alternate" hreflang="zh" href="https://rshun.github.io/post/tech/hugo/">
 <noscript>
     <style>
         #theme-toggle,
@@ -101,7 +101,7 @@
   ],
   "articleBody": "解决Hugo发布到Github的时候无法加载css文件 使用环境 开发环境: Windows 11\nHugo版本: 0.108\nGit版本: 2.38.1\nTheme: PaperMod\n前要 上个月底想把荒废已久的blog重新拾起来，当初创建这个blog就是相当简单，使用Hugo+主题+Github。 可以说是完全按照网上的教程的发布到Github上，发布上去之后就基本不看也不用了。\n最近有点想法，想自己的一些日常笔记发布上去，可是我找不到以前的配置了，实在没办法，只能新建一个，按照网上教程，沿用原来的主题。\n发现问题 配置完 config.yml 之后发布到github上，发现css文件无法加载。可是在本地试了没问题，而且印象之前貌似没有这种情况呀。\n打开F12跟踪了一下，发布在css上有个错误 “Failed to find a valid digest in the ‘integrity’ attribute for resource - The resource has been blocked”\n于是搜索一下这个错误，原来是index.html文件里面的有一个属性的SHA256不匹配，在Stackoverflow上面有个解决办法，就是在 config.yml 中加上下面这个配置就能解决了，我试了一下，的确是没问题。\nparams: assets: disableFingerprinting: true config.toml 文件配置\nparams.assets.disableFingerprinting = true 问题到此似乎解决了，不过我好奇这个问题这个问题以前没出现过，是不是升级hugo或者主题的新版本之后才有?\n而且我后来测试的时候，config.yml 使用最简的配置，问题依然还有。为什么我在hugo和PaperMod的issue上没找到此类问题描述？\n查了一下hugo的文档，integrity这个属性是为了文件的完整性，防止被篡改，可问题是我在本地发布，同时使用git提交，这个过程中怎么可能被改？\n解决 这个时候我突然想起来了，在我做git add的时候曾经有个warning，当时因为能提交成功所以就忽略这个warning。 因为Windows和Linux对于回车符有些不太一样，于是我又在Linux机器上使用相同的命令和配置重新做了一下，并发布到Github上，结果在Linux机器上发布的就没问题，问题确定就是回车引起的，在网上查了一下，应该是安装Git的时候，未勾选下面的配置。 不过如果Git安装好了，使用下面的命令也可以实现。\ngit config --global core.autocrlf false 这样重新使用git add并提交，然后push到Github上，css样式就可以顺利加载了。\n参考文章 https://stackoverflow.com/questions/65040931/hugo-failed-to-find-a-valid-digest-in-the-integrity-attribute-for-resource 全文完\n",
   "wordCount" : "899",
-  "inLanguage": "中文",
+  "inLanguage": "zh",
   "datePublished": "2023-01-16T15:34:57+08:00",
   "dateModified": "2023-01-16T15:34:57+08:00",
   "mainEntityOfPage": {
@@ -117,7 +117,8 @@
     }
   }
 }
-</script>
+</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <meta name="referrer" content="no-referrer-when-downgrade">
 </head>
 
 <body class="" id="top">
@@ -167,7 +168,7 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="https://rshun.github.io/search" title="搜索">
+                <a href="https://rshun.github.io/search" title="搜索 (Alt &#43; /)" accesskey=/>
                     <span>搜索</span>
                 </a>
             </li>
@@ -198,20 +199,24 @@
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="https://rshun.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://rshun.github.io/post/">Posts</a></div>
+    <div class="breadcrumbs"><a href="https://rshun.github.io/">主页</a>&nbsp;»&nbsp;<a href="https://rshun.github.io/post/">Posts</a></div>
     <h1 class="post-title">
       解决Hugo无法加载css文件
     </h1>
     <div class="post-description">
       发布到Github上,css文件无法加载
     </div>
-    <div class="post-meta"><span title='2023-01-16 15:34:57 +0800 CST'>January 16, 2023</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;899 words
+    <div class="post-meta"><span title='2023-01-16 15:34:57 +0800 CST'>一月 16, 2023</span>&nbsp;·&nbsp;2 分钟&nbsp;·&nbsp;899 字
 
-</div>
+
+<div  class="meta-item">&nbsp·&nbsp
+  <span id="busuanzi_container_page_pv">本文阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+</div>	  
+    </div>
   </header> <div class="toc">
     <details  open>
         <summary accesskey="c" title="(Alt + C)">
-            <span class="details">Table of Contents</span>
+            <span class="details">目录</span>
         </summary>
 
         <div class="inner"><ul>
@@ -294,6 +299,16 @@
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
+
+
+<div class="busuanzi-footer">
+  <span id="busuanzi_container_site_pv">
+    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+  </span>
+  <span id="busuanzi_container_site_uv">
+    本站访客数<span id="busuanzi_value_site_uv"></span>人次
+  </span>
+</div>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
