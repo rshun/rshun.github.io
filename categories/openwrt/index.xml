@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>openWrt on 瞬间</title>
+    <link>https://rshun.github.io/categories/openwrt/</link>
+    <description>Recent content in openWrt on 瞬间</description>
+    <image>
+      <url>https://rshun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rshun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 19 Jan 2023 09:51:49 +0800</lastBuildDate><atom:link href="https://rshun.github.io/categories/openwrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在openWrt上安装并配置Clash(openWrt篇)</title>
+      <link>https://rshun.github.io/post/tech/openwrt_inst/</link>
+      <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
+      
+      <guid>https://rshun.github.io/post/tech/openwrt_inst/</guid>
+      <description>安装并配置openWrt</description>
+    </item>
+    
+  </channel>
+</rss>
