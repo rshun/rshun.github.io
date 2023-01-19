@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Jan 2023 15:34:57 +0800</lastBuildDate><atom:link href="https://rshun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 09:51:49 +0800</lastBuildDate><atom:link href="https://rshun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>clash</title>
+      <link>https://rshun.github.io/categories/clash/</link>
+      <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
+      
+      <guid>https://rshun.github.io/categories/clash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openWrt</title>
+      <link>https://rshun.github.io/categories/openwrt/</link>
+      <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
+      
+      <guid>https://rshun.github.io/categories/openwrt/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
       <link>https://rshun.github.io/categories/hugo/</link>
