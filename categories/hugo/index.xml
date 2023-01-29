@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hugo on 瞬间</title>
-    <link>https://rshun.github.io/categories/hugo/</link>
+    <link>https://qing.shuncs.com/categories/hugo/</link>
     <description>Recent content in hugo on 瞬间</description>
     <image>
-      <url>https://rshun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://rshun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Jan 2023 15:34:57 +0800</lastBuildDate><atom:link href="https://rshun.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 15:34:57 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>解决Hugo无法加载css文件</title>
-      <link>https://rshun.github.io/post/tech/hugo/</link>
+      <link>https://qing.shuncs.com/post/tech/hugo/</link>
       <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
       
-      <guid>https://rshun.github.io/post/tech/hugo/</guid>
+      <guid>https://qing.shuncs.com/post/tech/hugo/</guid>
       <description>发布到Github上,css文件无法加载</description>
     </item>
     

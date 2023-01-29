@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 瞬间</title>
-    <link>https://rshun.github.io/tags/</link>
+    <link>https://qing.shuncs.com/tags/</link>
     <description>Recent content in Tags on 瞬间</description>
     <image>
-      <url>https://rshun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://rshun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Jan 2023 15:28:05 +0800</lastBuildDate><atom:link href="https://rshun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 15:28:05 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023</title>
-      <link>https://rshun.github.io/tags/2023/</link>
+      <link>https://qing.shuncs.com/tags/2023/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
       
-      <guid>https://rshun.github.io/tags/2023/</guid>
+      <guid>https://qing.shuncs.com/tags/2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>clash</title>
-      <link>https://rshun.github.io/tags/clash/</link>
+      <link>https://qing.shuncs.com/tags/clash/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
       
-      <guid>https://rshun.github.io/tags/clash/</guid>
+      <guid>https://qing.shuncs.com/tags/clash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>openWrt</title>
-      <link>https://rshun.github.io/tags/openwrt/</link>
+      <link>https://qing.shuncs.com/tags/openwrt/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
       
-      <guid>https://rshun.github.io/tags/openwrt/</guid>
+      <guid>https://qing.shuncs.com/tags/openwrt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://rshun.github.io/tags/git/</link>
+      <link>https://qing.shuncs.com/tags/git/</link>
       <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
       
-      <guid>https://rshun.github.io/tags/git/</guid>
+      <guid>https://qing.shuncs.com/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://rshun.github.io/tags/hugo/</link>
+      <link>https://qing.shuncs.com/tags/hugo/</link>
       <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
       
-      <guid>https://rshun.github.io/tags/hugo/</guid>
+      <guid>https://qing.shuncs.com/tags/hugo/</guid>
       <description></description>
     </item>
     
