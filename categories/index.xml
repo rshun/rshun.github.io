@@ -10,22 +10,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 30 Jan 2023 14:01:03 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 09:13:34 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openWrt</title>
+      <link>https://qing.shuncs.com/categories/openwrt/</link>
+      <pubDate>Thu, 02 Feb 2023 09:13:34 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/openwrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gateway</title>
+      <link>https://qing.shuncs.com/categories/gateway/</link>
+      <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/gateway/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>nft</title>
       <link>https://qing.shuncs.com/categories/nft/</link>
       <pubDate>Mon, 30 Jan 2023 14:01:03 +0800</pubDate>
       
       <guid>https://qing.shuncs.com/categories/nft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>openWrt</title>
-      <link>https://qing.shuncs.com/categories/openwrt/</link>
-      <pubDate>Mon, 30 Jan 2023 14:01:03 +0800</pubDate>
-      
-      <guid>https://qing.shuncs.com/categories/openwrt/</guid>
       <description></description>
     </item>
     

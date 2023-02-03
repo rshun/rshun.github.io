@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 30 Jan 2023 14:01:03 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/openwrt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 09:13:34 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/openwrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在openWrt上扩容磁盘容量</title>
+      <link>https://qing.shuncs.com/post/tech/openwrtdisk/</link>
+      <pubDate>Thu, 02 Feb 2023 09:13:34 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/post/tech/openwrtdisk/</guid>
+      <description>扩容openWrt磁盘容量</description>
+    </item>
+    
+    <item>
+      <title>在openWrt上安装并配置Clash (网关篇)</title>
+      <link>https://qing.shuncs.com/post/tech/gatewayconf/</link>
+      <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
+      <description>指定设备走软路由，其余走主路由</description>
+    </item>
+    
     <item>
       <title>在openWrt上安装并配置Clash (Nftable篇)</title>
       <link>https://qing.shuncs.com/post/tech/nft4clash/</link>
