@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Feb 2023 09:13:34 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 20:54:02 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>finance</title>
+      <link>https://qing.shuncs.com/categories/finance/</link>
+      <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stock</title>
+      <link>https://qing.shuncs.com/categories/stock/</link>
+      <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/stock/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>openWrt</title>
       <link>https://qing.shuncs.com/categories/openwrt/</link>

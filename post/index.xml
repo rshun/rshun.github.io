@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 02 Feb 2023 09:13:34 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 20:54:02 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何在股票交易中合理分配资金使得收益最大化</title>
+      <link>https://qing.shuncs.com/post/finance/capital/</link>
+      <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/post/finance/capital/</guid>
+      <description>如何为每支股票分配合适资金</description>
+    </item>
+    
     <item>
       <title>在openWrt上扩容磁盘容量</title>
       <link>https://qing.shuncs.com/post/tech/openwrtdisk/</link>
