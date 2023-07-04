@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Jan 2023 15:34:57 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jul 2023 16:22:41 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在hugo里面添加中文web字体</title>
+      <link>https://qing.shuncs.com/post/hugo/hugofont/</link>
+      <pubDate>Tue, 04 Jul 2023 16:22:41 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/post/hugo/hugofont/</guid>
+      <description>添加中文的web字体</description>
+    </item>
+    
     <item>
       <title>解决Hugo无法加载css文件</title>
       <link>https://qing.shuncs.com/post/tech/hugo/</link>
