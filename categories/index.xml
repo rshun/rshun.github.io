@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Jul 2023 16:22:41 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 09:20:27 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS</title>
+      <link>https://qing.shuncs.com/categories/ios/</link>
+      <pubDate>Mon, 25 Sep 2023 09:20:27 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/ios/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
       <link>https://qing.shuncs.com/categories/hugo/</link>
