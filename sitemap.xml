@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://qing.shuncs.com/tags/2023/</loc>
-    <lastmod>2023-09-28T10:36:26+08:00</lastmod>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
   </url><url>
     <loc>https://qing.shuncs.com/categories/</loc>
-    <lastmod>2023-09-28T10:36:26+08:00</lastmod>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/tags/hugo/</loc>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/categories/hugo/</loc>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/tags/katex/</loc>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/post/</loc>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/tags/</loc>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/</loc>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/post/hugo/hugolatex/</loc>
+    <lastmod>2023-10-24T10:06:55+08:00</lastmod>
   </url><url>
     <loc>https://qing.shuncs.com/tags/essay/</loc>
     <lastmod>2023-09-28T10:36:26+08:00</lastmod>
@@ -17,12 +38,6 @@
     <loc>https://qing.shuncs.com/categories/nanjing/</loc>
     <lastmod>2023-09-28T10:36:26+08:00</lastmod>
   </url><url>
-    <loc>https://qing.shuncs.com/post/</loc>
-    <lastmod>2023-09-28T10:36:26+08:00</lastmod>
-  </url><url>
-    <loc>https://qing.shuncs.com/tags/</loc>
-    <lastmod>2023-09-28T10:36:26+08:00</lastmod>
-  </url><url>
     <loc>https://qing.shuncs.com/tags/%E5%8D%97%E4%BA%AC/</loc>
     <lastmod>2023-09-28T10:36:26+08:00</lastmod>
   </url><url>
@@ -30,9 +45,6 @@
     <lastmod>2023-09-28T10:36:26+08:00</lastmod>
   </url><url>
     <loc>https://qing.shuncs.com/tags/%E6%95%A3%E6%96%87/</loc>
-    <lastmod>2023-09-28T10:36:26+08:00</lastmod>
-  </url><url>
-    <loc>https://qing.shuncs.com/</loc>
     <lastmod>2023-09-28T10:36:26+08:00</lastmod>
   </url><url>
     <loc>https://qing.shuncs.com/tags/ios/</loc>
@@ -50,12 +62,6 @@
     <loc>https://qing.shuncs.com/post/apple/holiday/</loc>
     <lastmod>2023-09-25T09:20:27+08:00</lastmod>
   </url><url>
-    <loc>https://qing.shuncs.com/tags/hugo/</loc>
-    <lastmod>2023-07-04T16:22:41+08:00</lastmod>
-  </url><url>
-    <loc>https://qing.shuncs.com/categories/hugo/</loc>
-    <lastmod>2023-07-04T16:22:41+08:00</lastmod>
-  </url><url>
     <loc>https://qing.shuncs.com/post/hugo/hugofont/</loc>
     <lastmod>2023-07-04T16:22:41+08:00</lastmod>
   </url><url>
@@ -68,7 +74,19 @@
     <loc>https://qing.shuncs.com/categories/stock/</loc>
     <lastmod>2023-05-10T20:54:02+08:00</lastmod>
   </url><url>
+    <loc>https://qing.shuncs.com/tags/%E8%82%A1%E7%A5%A8/</loc>
+    <lastmod>2023-05-10T20:54:02+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/categories/%E8%82%A1%E7%A5%A8/</loc>
+    <lastmod>2023-05-10T20:54:02+08:00</lastmod>
+  </url><url>
     <loc>https://qing.shuncs.com/post/finance/capital/</loc>
+    <lastmod>2023-05-10T20:54:02+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/tags/%E6%8A%95%E8%B5%84/</loc>
+    <lastmod>2023-05-10T20:54:02+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/categories/%E6%8A%95%E8%B5%84/</loc>
     <lastmod>2023-05-10T20:54:02+08:00</lastmod>
   </url><url>
     <loc>https://qing.shuncs.com/tags/openwrt/</loc>
@@ -84,6 +102,9 @@
     <lastmod>2023-02-01T14:14:02+08:00</lastmod>
   </url><url>
     <loc>https://qing.shuncs.com/categories/gateway/</loc>
+    <lastmod>2023-02-01T14:14:02+08:00</lastmod>
+  </url><url>
+    <loc>https://qing.shuncs.com/tags/%E7%BD%91%E5%85%B3/</loc>
     <lastmod>2023-02-01T14:14:02+08:00</lastmod>
   </url><url>
     <loc>https://qing.shuncs.com/post/tech/gatewayconf/</loc>
@@ -113,7 +134,7 @@
     <loc>https://qing.shuncs.com/tags/git/</loc>
     <lastmod>2023-01-16T15:34:57+08:00</lastmod>
   </url><url>
-    <loc>https://qing.shuncs.com/post/tech/hugo/</loc>
+    <loc>https://qing.shuncs.com/post/hugo/hugo/</loc>
     <lastmod>2023-01-16T15:34:57+08:00</lastmod>
   </url><url>
     <loc>https://qing.shuncs.com/search.en/</loc>

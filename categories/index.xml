@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 Sep 2023 10:36:26 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Oct 2023 10:06:55 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://qing.shuncs.com/categories/hugo/</link>
+      <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Nanjing</title>
       <link>https://qing.shuncs.com/categories/nanjing/</link>
@@ -30,15 +39,6 @@
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://qing.shuncs.com/categories/hugo/</link>
-      <pubDate>Tue, 04 Jul 2023 16:22:41 +0800</pubDate>
-      
-      <guid>https://qing.shuncs.com/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>finance</title>
       <link>https://qing.shuncs.com/categories/finance/</link>
       <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
@@ -53,6 +53,24 @@
       <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
       
       <guid>https://qing.shuncs.com/categories/stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>股票</title>
+      <link>https://qing.shuncs.com/categories/%E8%82%A1%E7%A5%A8/</link>
+      <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/%E8%82%A1%E7%A5%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>投资</title>
+      <link>https://qing.shuncs.com/categories/%E6%8A%95%E8%B5%84/</link>
+      <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/%E6%8A%95%E8%B5%84/</guid>
       <description></description>
     </item>
     
