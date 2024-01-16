@@ -9,7 +9,7 @@
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh</language>
     <lastBuildDate>Tue, 24 Oct 2023 10:06:55 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在hugo里面添加KaTeX渲染公式</title>
