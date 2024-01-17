@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 17 Jan 2024 08:48:51 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2024 13:55:05 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在Hugo里面添加更新时间</title>
+      <link>https://qing.shuncs.com/post/hugo/hugoupdate/</link>
+      <pubDate>Wed, 17 Jan 2024 13:55:05 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/post/hugo/hugoupdate/</guid>
+      <description>添加更新时间</description>
+    </item>
+    
     <item>
       <title>Hugo文章日期渲染问题</title>
       <link>https://qing.shuncs.com/post/hugo/htmlrender/</link>
