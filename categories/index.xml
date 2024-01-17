@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 16 Jan 2024 10:41:01 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2024 08:48:51 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://qing.shuncs.com/categories/hugo/</link>
+      <pubDate>Wed, 17 Jan 2024 08:48:51 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>股票</title>
       <link>https://qing.shuncs.com/categories/%E8%82%A1%E7%A5%A8/</link>
@@ -44,15 +53,6 @@
       <pubDate>Thu, 26 Oct 2023 10:41:01 +0800</pubDate>
       
       <guid>https://qing.shuncs.com/categories/stock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://qing.shuncs.com/categories/hugo/</link>
-      <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
-      
-      <guid>https://qing.shuncs.com/categories/hugo/</guid>
       <description></description>
     </item>
     
