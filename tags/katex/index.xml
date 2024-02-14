@@ -12,12 +12,12 @@
     <language>zh</language>
     <lastBuildDate>Tue, 24 Oct 2023 10:06:55 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/katex/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>在hugo里面添加KaTeX渲染公式</title>
+      <title>使用KaTeX渲染数学公式</title>
       <link>https://qing.shuncs.com/post/hugo/hugolatex/</link>
       <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
       
       <guid>https://qing.shuncs.com/post/hugo/hugolatex/</guid>
-      <description>添加KaTeX渲染公式</description>
+      <description>在Hugo使用KaTeX渲染数学公式</description>
     </item>
     
   </channel>

@@ -17,7 +17,7 @@
       <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
       
       <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
-      <description>指定设备走软路由，其余走主路由</description>
+      <description>配置软路由网关</description>
     </item>
     
   </channel>
