@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Router on 瞬间</title>
+    <link>https://qing.shuncs.com/categories/router/</link>
+    <description>Recent content in Router on 瞬间</description>
+    <image>
+      <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 11 Sep 2024 21:02:19 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/router/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WNDR4300变砖之后如何恢复</title>
+      <link>https://qing.shuncs.com/post/router/wndr4300/</link>
+      <pubDate>Wed, 11 Sep 2024 21:02:19 +0800</pubDate>
+      
+      <guid>https://qing.shuncs.com/post/router/wndr4300/</guid>
+      <description>前提 由于修改了WNDR4300路由器上一个关于交换机的配置，导致连不上网络，同时路由器的管理页面也无法登录，不过好在这款路由器可以随时恢复出</description>
+    </item>
+    
+  </channel>
+</rss>
