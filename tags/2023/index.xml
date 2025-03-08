@@ -5,128 +5,104 @@
     <link>https://qing.shuncs.com/tags/2023/</link>
     <description>Recent content in 2023 on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 26 Oct 2023 10:41:01 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:10:15 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/tags/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何计算股票投资收益率(下)</title>
       <link>https://qing.shuncs.com/post/finance/yield2/</link>
       <pubDate>Thu, 26 Oct 2023 10:41:01 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/finance/yield2/</guid>
       <description>计算股票投资收益率</description>
     </item>
-    
     <item>
       <title>如何计算股票投资收益率(上)</title>
       <link>https://qing.shuncs.com/post/finance/yield/</link>
       <pubDate>Wed, 25 Oct 2023 10:41:01 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/finance/yield/</guid>
       <description>计算股票投资收益率</description>
     </item>
-    
     <item>
       <title>使用KaTeX渲染数学公式</title>
       <link>https://qing.shuncs.com/post/hugo/hugolatex/</link>
       <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugolatex/</guid>
       <description>在Hugo使用KaTeX渲染数学公式</description>
     </item>
-    
     <item>
       <title>南京的市井</title>
       <link>https://qing.shuncs.com/post/nj/njessay/</link>
       <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/nj/njessay/</guid>
       <description>南京市井气息和内敛</description>
     </item>
-    
     <item>
       <title>使用快捷方式自动打开节假日闹钟</title>
       <link>https://qing.shuncs.com/post/apple/holiday/</link>
       <pubDate>Mon, 25 Sep 2023 09:20:27 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/apple/holiday/</guid>
       <description>使用快捷方式自动打开节假日闹钟</description>
     </item>
-    
     <item>
       <title>在hugo里面添加中文web字体</title>
       <link>https://qing.shuncs.com/post/hugo/hugofont/</link>
       <pubDate>Tue, 04 Jul 2023 16:22:41 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugofont/</guid>
       <description>在Hugo中添加中文web字体</description>
     </item>
-    
     <item>
       <title>如何在股票交易中合理分配资金使得收益最大化</title>
       <link>https://qing.shuncs.com/post/finance/capital/</link>
       <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/finance/capital/</guid>
       <description>如何合理分配股票仓位</description>
     </item>
-    
     <item>
       <title>在openWrt上扩容磁盘容量</title>
       <link>https://qing.shuncs.com/post/tech/openwrtdisk/</link>
       <pubDate>Thu, 02 Feb 2023 09:13:34 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/openwrtdisk/</guid>
       <description>扩容openWrt磁盘容量</description>
     </item>
-    
     <item>
       <title>在openWrt上安装并配置Clash (网关篇)</title>
       <link>https://qing.shuncs.com/post/tech/gatewayconf/</link>
       <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
       <description>配置软路由网关</description>
     </item>
-    
     <item>
       <title>在openWrt上安装并配置Clash (Nftable篇)</title>
       <link>https://qing.shuncs.com/post/tech/nft4clash/</link>
       <pubDate>Mon, 30 Jan 2023 14:01:03 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/nft4clash/</guid>
       <description>配置nftable</description>
     </item>
-    
     <item>
       <title>在openWrt上安装并配置Clash (Clash篇)</title>
       <link>https://qing.shuncs.com/post/tech/clashinst/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/clashinst/</guid>
-      <description>安装并配置Clash</description>
+      <description>在x86机器上安装clash,并且做基础配置</description>
     </item>
-    
     <item>
       <title>在openWrt上安装并配置Clash (openWrt篇)</title>
       <link>https://qing.shuncs.com/post/tech/openwrt_inst/</link>
       <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/openwrt_inst/</guid>
       <description>安装并配置openWrt</description>
     </item>
-    
     <item>
       <title>解决Hugo无法加载css文件</title>
       <link>https://qing.shuncs.com/post/hugo/hugocsserror/</link>
       <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugocsserror/</guid>
       <description>Hugo中无法加载CSS文件</description>
     </item>
-    
   </channel>
 </rss>

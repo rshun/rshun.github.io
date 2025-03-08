@@ -5,83 +5,69 @@
     <link>https://qing.shuncs.com/tags/2024/</link>
     <description>Recent content in 2024 on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 11 Sep 2024 21:02:19 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:10:09 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/tags/2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WNDR4300变砖之后如何恢复</title>
       <link>https://qing.shuncs.com/post/router/wndr4300/</link>
       <pubDate>Wed, 11 Sep 2024 21:02:19 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/router/wndr4300/</guid>
-      <description>恢复变砖的WNDR4300</description>
+      <description>修复变砖的WNDR4300</description>
     </item>
-    
     <item>
       <title>如何订阅Spotify</title>
       <link>https://qing.shuncs.com/post/spotify/subspotify/</link>
       <pubDate>Sun, 30 Jun 2024 11:27:16 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/spotify/subspotify/</guid>
-      <description>如何订阅Spotify</description>
+      <description>使用支付方便的方式订阅Spotify</description>
     </item>
-    
     <item>
       <title>重新安装Windows11的注意事项</title>
       <link>https://qing.shuncs.com/post/tech/reinstwin11/</link>
       <pubDate>Sat, 06 Apr 2024 20:04:06 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/reinstwin11/</guid>
-      <description>重新安装Win11</description>
+      <description>重新安装Windows11时候遇到问题</description>
     </item>
-    
     <item>
       <title>基金定投收益分析及策略探讨</title>
       <link>https://qing.shuncs.com/post/finance/fundismoney/</link>
       <pubDate>Sun, 04 Feb 2024 09:15:32 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/finance/fundismoney/</guid>
       <description>基金定投收益率分析</description>
     </item>
-    
     <item>
       <title>在Hugo中使用Google Analytics</title>
       <link>https://qing.shuncs.com/post/hugo/hugogoogle/</link>
       <pubDate>Thu, 18 Jan 2024 16:36:54 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugogoogle/</guid>
       <description>在Hugo中使用Google分析</description>
     </item>
-    
     <item>
       <title>在Hugo里面添加更新时间</title>
       <link>https://qing.shuncs.com/post/hugo/hugoupdate/</link>
       <pubDate>Wed, 17 Jan 2024 13:55:05 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugoupdate/</guid>
       <description>在Hugo内添加更新时间</description>
     </item>
-    
     <item>
       <title>Hugo文章日期渲染问题</title>
       <link>https://qing.shuncs.com/post/hugo/htmlrender/</link>
       <pubDate>Wed, 17 Jan 2024 08:48:51 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/htmlrender/</guid>
       <description>Hugo文章日期渲染</description>
     </item>
-    
     <item>
       <title>2023年股票投资总结</title>
       <link>https://qing.shuncs.com/post/finance/invest2023/</link>
       <pubDate>Tue, 16 Jan 2024 10:41:01 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/finance/invest2023/</guid>
       <description>2023年股票投资总结</description>
     </item>
-    
   </channel>
 </rss>

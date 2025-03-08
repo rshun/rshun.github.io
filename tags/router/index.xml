@@ -5,20 +5,20 @@
     <link>https://qing.shuncs.com/tags/router/</link>
     <description>Recent content in Router on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 11 Sep 2024 21:02:19 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/router/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:01:07 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/tags/router/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WNDR4300变砖之后如何恢复</title>
       <link>https://qing.shuncs.com/post/router/wndr4300/</link>
       <pubDate>Wed, 11 Sep 2024 21:02:19 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/router/wndr4300/</guid>
-      <description>恢复变砖的WNDR4300</description>
+      <description>修复变砖的WNDR4300</description>
     </item>
-    
   </channel>
 </rss>

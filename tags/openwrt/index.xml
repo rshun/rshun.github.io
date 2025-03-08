@@ -5,56 +5,48 @@
     <link>https://qing.shuncs.com/tags/openwrt/</link>
     <description>Recent content in OpenWrt on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 02 Feb 2023 09:13:34 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/openwrt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:08:43 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/tags/openwrt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在openWrt上扩容磁盘容量</title>
       <link>https://qing.shuncs.com/post/tech/openwrtdisk/</link>
       <pubDate>Thu, 02 Feb 2023 09:13:34 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/openwrtdisk/</guid>
       <description>扩容openWrt磁盘容量</description>
     </item>
-    
     <item>
       <title>在openWrt上安装并配置Clash (网关篇)</title>
       <link>https://qing.shuncs.com/post/tech/gatewayconf/</link>
       <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
       <description>配置软路由网关</description>
     </item>
-    
     <item>
       <title>在openWrt上安装并配置Clash (Nftable篇)</title>
       <link>https://qing.shuncs.com/post/tech/nft4clash/</link>
       <pubDate>Mon, 30 Jan 2023 14:01:03 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/nft4clash/</guid>
       <description>配置nftable</description>
     </item>
-    
     <item>
       <title>在openWrt上安装并配置Clash (Clash篇)</title>
       <link>https://qing.shuncs.com/post/tech/clashinst/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/clashinst/</guid>
-      <description>安装并配置Clash</description>
+      <description>在x86机器上安装clash,并且做基础配置</description>
     </item>
-    
     <item>
       <title>在openWrt上安装并配置Clash (openWrt篇)</title>
       <link>https://qing.shuncs.com/post/tech/openwrt_inst/</link>
       <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/openwrt_inst/</guid>
       <description>安装并配置openWrt</description>
     </item>
-    
   </channel>
 </rss>

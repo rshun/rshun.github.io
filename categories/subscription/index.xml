@@ -5,20 +5,20 @@
     <link>https://qing.shuncs.com/categories/subscription/</link>
     <description>Recent content in Subscription on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 01 Jan 2025 14:03:56 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/subscription/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:02:58 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/categories/subscription/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024订阅总结</title>
       <link>https://qing.shuncs.com/post/tech/subsummary/</link>
       <pubDate>Wed, 01 Jan 2025 14:03:56 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/subsummary/</guid>
-      <description>对2024年订阅做总结</description>
+      <description>对2024年订阅做个总结及2025年订阅做预测</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,20 +5,20 @@
     <link>https://qing.shuncs.com/tags/spotify/</link>
     <description>Recent content in Spotify on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 30 Jun 2024 11:27:16 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:01:47 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何订阅Spotify</title>
       <link>https://qing.shuncs.com/post/spotify/subspotify/</link>
       <pubDate>Sun, 30 Jun 2024 11:27:16 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/spotify/subspotify/</guid>
-      <description>如何订阅Spotify</description>
+      <description>使用支付方便的方式订阅Spotify</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,128 +5,104 @@
     <link>https://qing.shuncs.com/categories/</link>
     <description>Recent content in Categories on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 04 Feb 2025 11:22:41 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:10:27 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
       <link>https://qing.shuncs.com/categories/hugo/</link>
-      <pubDate>Tue, 04 Feb 2025 11:22:41 +0800</pubDate>
-      
+      <pubDate>Fri, 07 Mar 2025 20:30:43 +0800</pubDate>
       <guid>https://qing.shuncs.com/categories/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>股票</title>
       <link>https://qing.shuncs.com/categories/%E8%82%A1%E7%A5%A8/</link>
       <pubDate>Mon, 27 Jan 2025 21:02:45 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/%E8%82%A1%E7%A5%A8/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>投资</title>
       <link>https://qing.shuncs.com/categories/%E6%8A%95%E8%B5%84/</link>
       <pubDate>Mon, 27 Jan 2025 21:02:45 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/%E6%8A%95%E8%B5%84/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Win11</title>
       <link>https://qing.shuncs.com/categories/win11/</link>
       <pubDate>Mon, 20 Jan 2025 19:33:34 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/win11/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Subscription</title>
       <link>https://qing.shuncs.com/categories/subscription/</link>
       <pubDate>Wed, 01 Jan 2025 14:03:56 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/subscription/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>订阅</title>
       <link>https://qing.shuncs.com/categories/%E8%AE%A2%E9%98%85/</link>
       <pubDate>Wed, 01 Jan 2025 14:03:56 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/%E8%AE%A2%E9%98%85/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Router</title>
       <link>https://qing.shuncs.com/categories/router/</link>
       <pubDate>Wed, 11 Sep 2024 21:02:19 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/router/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Spotify</title>
       <link>https://qing.shuncs.com/categories/spotify/</link>
       <pubDate>Sun, 30 Jun 2024 11:27:16 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/spotify/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>南京</title>
       <link>https://qing.shuncs.com/categories/%E5%8D%97%E4%BA%AC/</link>
       <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/%E5%8D%97%E4%BA%AC/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>IOS</title>
       <link>https://qing.shuncs.com/categories/ios/</link>
       <pubDate>Mon, 25 Sep 2023 09:20:27 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/ios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>OpenWrt</title>
       <link>https://qing.shuncs.com/categories/openwrt/</link>
       <pubDate>Thu, 02 Feb 2023 09:13:34 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/openwrt/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nft</title>
       <link>https://qing.shuncs.com/categories/nft/</link>
       <pubDate>Mon, 30 Jan 2023 14:01:03 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/nft/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Clash</title>
       <link>https://qing.shuncs.com/categories/clash/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/categories/clash/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

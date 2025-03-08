@@ -5,20 +5,20 @@
     <link>https://qing.shuncs.com/tags/%E7%BD%91%E5%85%B3/</link>
     <description>Recent content in 网关 on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 01 Feb 2023 14:14:02 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/%E7%BD%91%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:07:59 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/tags/%E7%BD%91%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在openWrt上安装并配置Clash (网关篇)</title>
       <link>https://qing.shuncs.com/post/tech/gatewayconf/</link>
       <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
       <description>配置软路由网关</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,20 +5,20 @@
     <link>https://qing.shuncs.com/tags/katex/</link>
     <description>Recent content in KaTex on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 24 Oct 2023 10:06:55 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/tags/katex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 13:59:13 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/tags/katex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用KaTeX渲染数学公式</title>
       <link>https://qing.shuncs.com/post/hugo/hugolatex/</link>
       <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugolatex/</guid>
       <description>在Hugo使用KaTeX渲染数学公式</description>
     </item>
-    
   </channel>
 </rss>

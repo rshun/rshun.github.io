@@ -5,74 +5,69 @@
     <link>https://qing.shuncs.com/categories/hugo/</link>
     <description>Recent content in Hugo on 瞬间</description>
     <image>
+      <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 04 Feb 2025 11:22:41 +0800</lastBuildDate><atom:link href="https://qing.shuncs.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Mar 2025 14:10:27 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>升级Hugo及PaperMod主题</title>
+      <link>https://qing.shuncs.com/post/hugo/hugo-papermod-upgrade/</link>
+      <pubDate>Fri, 07 Mar 2025 20:30:43 +0800</pubDate>
+      <guid>https://qing.shuncs.com/post/hugo/hugo-papermod-upgrade/</guid>
+      <description>升级Hugo和PaperMod主题同时记录修改过程，包括版本兼容性冲突及主题和个性化样式分享</description>
+    </item>
     <item>
       <title>侧边悬浮目录</title>
       <link>https://qing.shuncs.com/post/hugo/hugotoc/</link>
       <pubDate>Tue, 04 Feb 2025 11:22:41 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugotoc/</guid>
-      <description>将目录放置侧边栏</description>
+      <description>将目录从顶部移至左侧边栏并固定</description>
     </item>
-    
     <item>
       <title>在Hugo中使用Google Analytics</title>
       <link>https://qing.shuncs.com/post/hugo/hugogoogle/</link>
       <pubDate>Thu, 18 Jan 2024 16:36:54 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugogoogle/</guid>
       <description>在Hugo中使用Google分析</description>
     </item>
-    
     <item>
       <title>在Hugo里面添加更新时间</title>
       <link>https://qing.shuncs.com/post/hugo/hugoupdate/</link>
       <pubDate>Wed, 17 Jan 2024 13:55:05 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugoupdate/</guid>
       <description>在Hugo内添加更新时间</description>
     </item>
-    
     <item>
       <title>Hugo文章日期渲染问题</title>
       <link>https://qing.shuncs.com/post/hugo/htmlrender/</link>
       <pubDate>Wed, 17 Jan 2024 08:48:51 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/htmlrender/</guid>
       <description>Hugo文章日期渲染</description>
     </item>
-    
     <item>
       <title>使用KaTeX渲染数学公式</title>
       <link>https://qing.shuncs.com/post/hugo/hugolatex/</link>
       <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugolatex/</guid>
       <description>在Hugo使用KaTeX渲染数学公式</description>
     </item>
-    
     <item>
       <title>在hugo里面添加中文web字体</title>
       <link>https://qing.shuncs.com/post/hugo/hugofont/</link>
       <pubDate>Tue, 04 Jul 2023 16:22:41 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugofont/</guid>
       <description>在Hugo中添加中文web字体</description>
     </item>
-    
     <item>
       <title>解决Hugo无法加载css文件</title>
       <link>https://qing.shuncs.com/post/hugo/hugocsserror/</link>
       <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
-      
       <guid>https://qing.shuncs.com/post/hugo/hugocsserror/</guid>
       <description>Hugo中无法加载CSS文件</description>
     </item>
-    
   </channel>
 </rss>
