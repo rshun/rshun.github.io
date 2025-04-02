@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:08:58 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 11:23:20 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/categories/win11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows下配置Singbox</title>
+      <link>https://qing.shuncs.com/post/tech/conf-singbox/</link>
+      <pubDate>Tue, 01 Apr 2025 19:57:19 +0800</pubDate>
+      <guid>https://qing.shuncs.com/post/tech/conf-singbox/</guid>
+      <description>配置Singbox所遇到问题</description>
+    </item>
     <item>
       <title>安装Windows11使用本地账户</title>
       <link>https://qing.shuncs.com/post/tech/loginwin11/</link>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Win11 on 瞬间</title>
-    <link>https://qing.shuncs.com/tags/win11/</link>
-    <description>Recent content in Win11 on 瞬间</description>
+    <title>SingBox on 瞬间</title>
+    <link>https://qing.shuncs.com/categories/singbox/</link>
+    <description>Recent content in SingBox on 瞬间</description>
     <image>
       <title>瞬间</title>
       <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,27 +12,13 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 02 Apr 2025 11:23:20 +0800</lastBuildDate>
-    <atom:link href="https://qing.shuncs.com/tags/win11/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qing.shuncs.com/categories/singbox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows下配置Singbox</title>
       <link>https://qing.shuncs.com/post/tech/conf-singbox/</link>
       <pubDate>Tue, 01 Apr 2025 19:57:19 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/conf-singbox/</guid>
       <description>配置Singbox所遇到问题</description>
-    </item>
-    <item>
-      <title>安装Windows11使用本地账户</title>
-      <link>https://qing.shuncs.com/post/tech/loginwin11/</link>
-      <pubDate>Mon, 20 Jan 2025 19:33:34 +0800</pubDate>
-      <guid>https://qing.shuncs.com/post/tech/loginwin11/</guid>
-      <description>安装Windows11使用本地账户</description>
-    </item>
-    <item>
-      <title>重新安装Windows11的注意事项</title>
-      <link>https://qing.shuncs.com/post/tech/reinstwin11/</link>
-      <pubDate>Sat, 06 Apr 2024 20:04:06 +0800</pubDate>
-      <guid>https://qing.shuncs.com/post/tech/reinstwin11/</guid>
-      <description>重新安装Windows11时候遇到问题</description>
     </item>
   </channel>
 </rss>

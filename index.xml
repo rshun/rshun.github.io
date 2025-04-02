@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 20 Mar 2025 19:54:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 11:23:20 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025年股票投资(更新中)</title>
@@ -19,6 +19,13 @@
       <pubDate>Wed, 17 Jan 2024 10:52:54 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/investlive/</guid>
       <description>2025股票投资</description>
+    </item>
+    <item>
+      <title>Windows下配置Singbox</title>
+      <link>https://qing.shuncs.com/post/tech/conf-singbox/</link>
+      <pubDate>Tue, 01 Apr 2025 19:57:19 +0800</pubDate>
+      <guid>https://qing.shuncs.com/post/tech/conf-singbox/</guid>
+      <description>配置Singbox所遇到问题</description>
     </item>
     <item>
       <title>升级Hugo及PaperMod主题</title>
