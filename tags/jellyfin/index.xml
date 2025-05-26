@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jellyfin on 瞬间</title>
+    <link>http://localhost:1313/tags/jellyfin/</link>
+    <description>Recent content in Jellyfin on 瞬间</description>
+    <image>
+      <title>瞬间</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 20 Apr 2025 19:46:06 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/jellyfin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>忘记jellyfin管理员密码</title>
+      <link>http://localhost:1313/post/jellyfin/jellyfin_forget_password/</link>
+      <pubDate>Sun, 20 Apr 2025 19:26:22 +0800</pubDate>
+      <guid>http://localhost:1313/post/jellyfin/jellyfin_forget_password/</guid>
+      <description>重置jellyfin的管理员密码</description>
+    </item>
+  </channel>
+</rss>
