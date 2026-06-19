@@ -11,63 +11,63 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 09 Mar 2025 19:57:50 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:40 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>升级Hugo及PaperMod主题</title>
       <link>https://qing.shuncs.com/post/hugo/hugo-papermod-upgrade/</link>
       <pubDate>Fri, 07 Mar 2025 20:30:43 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugo-papermod-upgrade/</guid>
-      <description>升级Hugo和PaperMod主题同时记录修改过程，包括版本兼容性冲突及主题和个性化样式分享</description>
+      <description>记录升级Hugo 0.145和PaperMod主题的过程，包括版本兼容错误、自定义模板迁移、KaTeX、访问统计和Google Analytics配置。</description>
     </item>
     <item>
       <title>侧边悬浮目录</title>
       <link>https://qing.shuncs.com/post/hugo/hugotoc/</link>
       <pubDate>Tue, 04 Feb 2025 11:22:41 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugotoc/</guid>
-      <description>将目录从顶部移至左侧边栏并固定</description>
+      <description>说明如何修改Hugo与PaperMod模板和CSS，将文章目录移动到左侧边栏，固定显示并根据滚动位置高亮当前章节。</description>
     </item>
     <item>
       <title>在Hugo中使用Google Analytics</title>
       <link>https://qing.shuncs.com/post/hugo/hugogoogle/</link>
       <pubDate>Thu, 18 Jan 2024 16:36:54 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugogoogle/</guid>
-      <description>在Hugo中使用Google分析</description>
+      <description>介绍如何在Hugo与PaperMod站点中配置Google Analytics，包括GA参数、统计模板和页面模板引用方式。</description>
     </item>
     <item>
       <title>在Hugo里面添加更新时间</title>
       <link>https://qing.shuncs.com/post/hugo/hugoupdate/</link>
       <pubDate>Wed, 17 Jan 2024 13:55:05 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugoupdate/</guid>
-      <description>在Hugo内添加更新时间</description>
+      <description>通过Hugo Front Matter日期配置和PaperMod模板修改，在文章页面显示最后更新时间，并使用文件修改时间作为回退值。</description>
     </item>
     <item>
       <title>Hugo文章日期渲染问题</title>
       <link>https://qing.shuncs.com/post/hugo/htmlrender/</link>
       <pubDate>Wed, 17 Jan 2024 08:48:51 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/htmlrender/</guid>
-      <description>Hugo文章日期渲染</description>
+      <description>记录Hugo与PaperMod升级后文章日期显示异常的问题，说明时间格式配置和模板渲染的排查与修改方法。</description>
     </item>
     <item>
       <title>使用KaTeX渲染数学公式</title>
       <link>https://qing.shuncs.com/post/hugo/hugolatex/</link>
       <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugolatex/</guid>
-      <description>在Hugo使用KaTeX渲染数学公式</description>
+      <description>介绍如何下载并本地部署KaTeX，在Hugo和PaperMod模板中加载相关资源，实现Markdown文章中的数学公式渲染。</description>
     </item>
     <item>
       <title>在hugo里面添加中文web字体</title>
       <link>https://qing.shuncs.com/post/hugo/hugofont/</link>
       <pubDate>Tue, 04 Jul 2023 16:22:41 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugofont/</guid>
-      <description>在Hugo中添加中文web字体</description>
+      <description>说明如何在Hugo和PaperMod中引用中文Web字体，通过HTML加载字体文件，并使用CSS指定正文或页面区域的字体。</description>
     </item>
     <item>
       <title>解决Hugo无法加载css文件</title>
       <link>https://qing.shuncs.com/post/hugo/hugocsserror/</link>
       <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugocsserror/</guid>
-      <description>Hugo中无法加载CSS文件</description>
+      <description>记录Hugo博客发布到GitHub Pages后CSS样式无法加载的排查过程，涉及站点地址、静态资源路径和配置文件修改。</description>
     </item>
   </channel>
 </rss>

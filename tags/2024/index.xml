@@ -11,63 +11,63 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:10:09 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:55 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WNDR4300变砖之后如何恢复</title>
       <link>https://qing.shuncs.com/post/router/wndr4300/</link>
       <pubDate>Wed, 11 Sep 2024 21:02:19 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/router/wndr4300/</guid>
-      <description>修复变砖的WNDR4300</description>
+      <description>记录网件WNDR4300 V1因配置错误无法联网和登录管理页面后，通过恢复模式、TFTP和官方固件完成救砖的步骤。</description>
     </item>
     <item>
       <title>如何订阅Spotify</title>
       <link>https://qing.shuncs.com/post/spotify/subspotify/</link>
       <pubDate>Sun, 30 Jun 2024 11:27:16 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/spotify/subspotify/</guid>
-      <description>使用支付方便的方式订阅Spotify</description>
+      <description>整理Spotify Premium个人与家庭订阅方案，比较拼车、电话卡充值、当地银行卡和PayPal等付款方式的成本与风险。</description>
     </item>
     <item>
       <title>重新安装Windows11的注意事项</title>
       <link>https://qing.shuncs.com/post/tech/reinstwin11/</link>
       <pubDate>Sat, 06 Apr 2024 20:04:06 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/reinstwin11/</guid>
-      <description>重新安装Windows11时候遇到问题</description>
+      <description>整理重新安装Windows 11的完整准备流程，包括本地资料与聊天记录备份、系统安装、驱动处理和常用软件恢复。</description>
     </item>
     <item>
       <title>基金定投收益分析及策略探讨</title>
       <link>https://qing.shuncs.com/post/finance/fundismoney/</link>
       <pubDate>Sun, 04 Feb 2024 09:15:32 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/fundismoney/</guid>
-      <description>基金定投收益率分析</description>
+      <description>基于2800多只基金的数据分析长期定投收益，比较指数型与混合型基金表现，并讨论定投标的、投资周期和卖出时机。</description>
     </item>
     <item>
       <title>在Hugo中使用Google Analytics</title>
       <link>https://qing.shuncs.com/post/hugo/hugogoogle/</link>
       <pubDate>Thu, 18 Jan 2024 16:36:54 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugogoogle/</guid>
-      <description>在Hugo中使用Google分析</description>
+      <description>介绍如何在Hugo与PaperMod站点中配置Google Analytics，包括GA参数、统计模板和页面模板引用方式。</description>
     </item>
     <item>
       <title>在Hugo里面添加更新时间</title>
       <link>https://qing.shuncs.com/post/hugo/hugoupdate/</link>
       <pubDate>Wed, 17 Jan 2024 13:55:05 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugoupdate/</guid>
-      <description>在Hugo内添加更新时间</description>
+      <description>通过Hugo Front Matter日期配置和PaperMod模板修改，在文章页面显示最后更新时间，并使用文件修改时间作为回退值。</description>
     </item>
     <item>
       <title>Hugo文章日期渲染问题</title>
       <link>https://qing.shuncs.com/post/hugo/htmlrender/</link>
       <pubDate>Wed, 17 Jan 2024 08:48:51 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/htmlrender/</guid>
-      <description>Hugo文章日期渲染</description>
+      <description>记录Hugo与PaperMod升级后文章日期显示异常的问题，说明时间格式配置和模板渲染的排查与修改方法。</description>
     </item>
     <item>
       <title>2023年股票投资总结</title>
       <link>https://qing.shuncs.com/post/finance/invest2023/</link>
       <pubDate>Tue, 16 Jan 2024 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/invest2023/</guid>
-      <description>2023年股票投资总结</description>
+      <description>复盘2023年个人股票投资模型与资金分配方案，对比2022和2023年的交易明细、仓位配比及收益表现。</description>
     </item>
   </channel>
 </rss>

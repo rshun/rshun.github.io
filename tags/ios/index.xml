@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:05:33 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:18 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用快捷方式自动打开节假日闹钟</title>
       <link>https://qing.shuncs.com/post/apple/holiday/</link>
       <pubDate>Mon, 25 Sep 2023 09:20:27 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/apple/holiday/</guid>
-      <description>使用快捷方式自动打开节假日闹钟</description>
+      <description>介绍如何使用iPhone快捷指令和自动化，根据中国大陆节假日日历自动开启或关闭起床闹钟，适用于iOS 12及以上版本。</description>
     </item>
   </channel>
 </rss>

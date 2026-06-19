@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 19 Jun 2026 20:55:50 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:38:03 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026随笔：投资、AI和普通人的迷茫</title>
@@ -25,140 +25,140 @@
       <link>https://qing.shuncs.com/post/tech/subscribe_summary_2025/</link>
       <pubDate>Mon, 05 Jan 2026 19:56:54 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/subscribe_summary_2025/</guid>
-      <description>对2025年订阅做个总结及2025年订阅做预测</description>
+      <description>总结2025年iCloud&#43;、域名、VPS、Office、Spotify、财经媒体和AI会员等数字订阅的费用、使用体验与取舍。</description>
     </item>
     <item>
       <title>退税引发信用卡锁卡问题</title>
       <link>https://qing.shuncs.com/post/travel/refund_tax/</link>
       <pubDate>Sat, 20 Dec 2025 10:32:41 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/travel/refund_tax/</guid>
-      <description>信用卡锁卡</description>
+      <description>记录欧洲旅行使用Planet Tax Free退税后发生信用卡再次扣款和锁卡的问题，以及与银行和退税公司沟通解决的过程。</description>
     </item>
     <item>
       <title>西班牙游记--马德里</title>
       <link>https://qing.shuncs.com/post/travel/spain/</link>
       <pubDate>Tue, 22 Jul 2025 20:15:04 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/travel/spain/</guid>
-      <description>西班牙游记</description>
+      <description>西班牙自由行游记，记录马德里皇宫与普拉多博物馆、格拉纳达阿尔罕布拉宫，以及巴塞罗那高迪建筑等行程体验。</description>
     </item>
     <item>
       <title>Windows下配置Singbox</title>
       <link>https://qing.shuncs.com/post/tech/conf-singbox/</link>
       <pubDate>Tue, 01 Apr 2025 19:57:19 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/conf-singbox/</guid>
-      <description>配置Singbox所遇到问题</description>
+      <description>记录Windows 11客户端使用Sing-box 1.12的配置方法，涵盖DNS、mixed与TUN入站、出站节点、路由规则及常见问题。</description>
     </item>
     <item>
       <title>升级Hugo及PaperMod主题</title>
       <link>https://qing.shuncs.com/post/hugo/hugo-papermod-upgrade/</link>
       <pubDate>Fri, 07 Mar 2025 20:30:43 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugo-papermod-upgrade/</guid>
-      <description>升级Hugo和PaperMod主题同时记录修改过程，包括版本兼容性冲突及主题和个性化样式分享</description>
+      <description>记录升级Hugo 0.145和PaperMod主题的过程，包括版本兼容错误、自定义模板迁移、KaTeX、访问统计和Google Analytics配置。</description>
     </item>
     <item>
       <title>侧边悬浮目录</title>
       <link>https://qing.shuncs.com/post/hugo/hugotoc/</link>
       <pubDate>Tue, 04 Feb 2025 11:22:41 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugotoc/</guid>
-      <description>将目录从顶部移至左侧边栏并固定</description>
+      <description>说明如何修改Hugo与PaperMod模板和CSS，将文章目录移动到左侧边栏，固定显示并根据滚动位置高亮当前章节。</description>
     </item>
     <item>
       <title>2024年股票投资总结</title>
       <link>https://qing.shuncs.com/post/finance/invest2024/</link>
       <pubDate>Mon, 27 Jan 2025 21:02:45 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/invest2024/</guid>
-      <description>2024年总结</description>
+      <description>总结2024年股票模拟盘表现，记录12只股票的交易结果、8.88%年度收益率，以及仓位分配和收益率计算中的问题。</description>
     </item>
     <item>
       <title>安装Windows11使用本地账户</title>
       <link>https://qing.shuncs.com/post/tech/loginwin11/</link>
       <pubDate>Mon, 20 Jan 2025 19:33:34 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/loginwin11/</guid>
-      <description>安装Windows11使用本地账户</description>
+      <description>记录Windows 11重装过程中跳过联网和微软账户登录、改用本地账户完成系统初始化的方法。</description>
     </item>
     <item>
       <title>2024订阅总结</title>
       <link>https://qing.shuncs.com/post/tech/subsummary/</link>
       <pubDate>Wed, 01 Jan 2025 14:03:56 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/subsummary/</guid>
-      <description>对2024年订阅做个总结及2025年订阅做预测</description>
+      <description>总结2024年iCloud&#43;、域名、VPS、Office、Spotify、YouTube Premium和财经媒体等订阅的成本与使用体验。</description>
     </item>
     <item>
       <title>WNDR4300变砖之后如何恢复</title>
       <link>https://qing.shuncs.com/post/router/wndr4300/</link>
       <pubDate>Wed, 11 Sep 2024 21:02:19 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/router/wndr4300/</guid>
-      <description>修复变砖的WNDR4300</description>
+      <description>记录网件WNDR4300 V1因配置错误无法联网和登录管理页面后，通过恢复模式、TFTP和官方固件完成救砖的步骤。</description>
     </item>
     <item>
       <title>如何订阅Spotify</title>
       <link>https://qing.shuncs.com/post/spotify/subspotify/</link>
       <pubDate>Sun, 30 Jun 2024 11:27:16 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/spotify/subspotify/</guid>
-      <description>使用支付方便的方式订阅Spotify</description>
+      <description>整理Spotify Premium个人与家庭订阅方案，比较拼车、电话卡充值、当地银行卡和PayPal等付款方式的成本与风险。</description>
     </item>
     <item>
       <title>重新安装Windows11的注意事项</title>
       <link>https://qing.shuncs.com/post/tech/reinstwin11/</link>
       <pubDate>Sat, 06 Apr 2024 20:04:06 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/reinstwin11/</guid>
-      <description>重新安装Windows11时候遇到问题</description>
+      <description>整理重新安装Windows 11的完整准备流程，包括本地资料与聊天记录备份、系统安装、驱动处理和常用软件恢复。</description>
     </item>
     <item>
       <title>基金定投收益分析及策略探讨</title>
       <link>https://qing.shuncs.com/post/finance/fundismoney/</link>
       <pubDate>Sun, 04 Feb 2024 09:15:32 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/fundismoney/</guid>
-      <description>基金定投收益率分析</description>
+      <description>基于2800多只基金的数据分析长期定投收益，比较指数型与混合型基金表现，并讨论定投标的、投资周期和卖出时机。</description>
     </item>
     <item>
       <title>在Hugo中使用Google Analytics</title>
       <link>https://qing.shuncs.com/post/hugo/hugogoogle/</link>
       <pubDate>Thu, 18 Jan 2024 16:36:54 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugogoogle/</guid>
-      <description>在Hugo中使用Google分析</description>
+      <description>介绍如何在Hugo与PaperMod站点中配置Google Analytics，包括GA参数、统计模板和页面模板引用方式。</description>
     </item>
     <item>
       <title>在Hugo里面添加更新时间</title>
       <link>https://qing.shuncs.com/post/hugo/hugoupdate/</link>
       <pubDate>Wed, 17 Jan 2024 13:55:05 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugoupdate/</guid>
-      <description>在Hugo内添加更新时间</description>
+      <description>通过Hugo Front Matter日期配置和PaperMod模板修改，在文章页面显示最后更新时间，并使用文件修改时间作为回退值。</description>
     </item>
     <item>
       <title>Hugo文章日期渲染问题</title>
       <link>https://qing.shuncs.com/post/hugo/htmlrender/</link>
       <pubDate>Wed, 17 Jan 2024 08:48:51 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/htmlrender/</guid>
-      <description>Hugo文章日期渲染</description>
+      <description>记录Hugo与PaperMod升级后文章日期显示异常的问题，说明时间格式配置和模板渲染的排查与修改方法。</description>
     </item>
     <item>
       <title>2023年股票投资总结</title>
       <link>https://qing.shuncs.com/post/finance/invest2023/</link>
       <pubDate>Tue, 16 Jan 2024 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/invest2023/</guid>
-      <description>2023年股票投资总结</description>
+      <description>复盘2023年个人股票投资模型与资金分配方案，对比2022和2023年的交易明细、仓位配比及收益表现。</description>
     </item>
     <item>
       <title>如何计算股票投资收益率(下)</title>
       <link>https://qing.shuncs.com/post/finance/yield2/</link>
       <pubDate>Thu, 26 Oct 2023 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/yield2/</guid>
-      <description>计算股票投资收益率</description>
+      <description>进一步拆解股票收益率中的利润、交易成本、买入市值、仓位和资金余额，说明多次交易时如何评估投资表现。</description>
     </item>
     <item>
       <title>如何计算股票投资收益率(上)</title>
       <link>https://qing.shuncs.com/post/finance/yield/</link>
       <pubDate>Wed, 25 Oct 2023 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/yield/</guid>
-      <description>计算股票投资收益率</description>
+      <description>比较简单公式、券商算法、净值法和XIRR等股票投资收益率计算方法，并分析资金进出和持仓变化带来的计算问题。</description>
     </item>
     <item>
       <title>使用KaTeX渲染数学公式</title>
       <link>https://qing.shuncs.com/post/hugo/hugolatex/</link>
       <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugolatex/</guid>
-      <description>在Hugo使用KaTeX渲染数学公式</description>
+      <description>介绍如何下载并本地部署KaTeX，在Hugo和PaperMod模板中加载相关资源，实现Markdown文章中的数学公式渲染。</description>
     </item>
     <item>
       <title>南京的市井</title>
@@ -172,63 +172,63 @@
       <link>https://qing.shuncs.com/post/apple/holiday/</link>
       <pubDate>Mon, 25 Sep 2023 09:20:27 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/apple/holiday/</guid>
-      <description>使用快捷方式自动打开节假日闹钟</description>
+      <description>介绍如何使用iPhone快捷指令和自动化，根据中国大陆节假日日历自动开启或关闭起床闹钟，适用于iOS 12及以上版本。</description>
     </item>
     <item>
       <title>在hugo里面添加中文web字体</title>
       <link>https://qing.shuncs.com/post/hugo/hugofont/</link>
       <pubDate>Tue, 04 Jul 2023 16:22:41 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugofont/</guid>
-      <description>在Hugo中添加中文web字体</description>
+      <description>说明如何在Hugo和PaperMod中引用中文Web字体，通过HTML加载字体文件，并使用CSS指定正文或页面区域的字体。</description>
     </item>
     <item>
       <title>如何在股票交易中合理分配资金使得收益最大化</title>
       <link>https://qing.shuncs.com/post/finance/capital/</link>
       <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/capital/</guid>
-      <description>如何合理分配股票仓位</description>
+      <description>通过历史股票池回测多种仓位分配方案，分析如何按照模型评分配置资金，缓解资金耗尽与新股票无法买入的问题。</description>
     </item>
     <item>
       <title>在openWrt上扩容磁盘容量</title>
       <link>https://qing.shuncs.com/post/tech/openwrtdisk/</link>
       <pubDate>Thu, 02 Feb 2023 09:13:34 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/openwrtdisk/</guid>
-      <description>扩容openWrt磁盘容量</description>
+      <description>介绍x86 OpenWrt安装后如何调整分区并扩展根文件系统，使系统使用磁盘剩余空间，并记录操作前的注意事项。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (网关篇)</title>
       <link>https://qing.shuncs.com/post/tech/gatewayconf/</link>
       <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
-      <description>配置软路由网关</description>
+      <description>介绍OpenWrt旁路由的DHCP和网关配置，使指定电脑或手机经过Clash软路由，其余设备继续使用主路由上网。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (Nftable篇)</title>
       <link>https://qing.shuncs.com/post/tech/nft4clash/</link>
       <pubDate>Mon, 30 Jan 2023 14:01:03 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/nft4clash/</guid>
-      <description>配置nftable</description>
+      <description>记录在OpenWrt中为Clash配置nftables透明代理规则，包括私有地址列表、TPROXY、开机启动和Dnsmasq转发设置。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (Clash篇)</title>
       <link>https://qing.shuncs.com/post/tech/clashinst/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/clashinst/</guid>
-      <description>在x86机器上安装clash,并且做基础配置</description>
+      <description>记录在x86_64 OpenWrt 22.03软路由中安装Clash Premium、编写基础配置，并设置客户端代理连接的方法。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (openWrt篇)</title>
       <link>https://qing.shuncs.com/post/tech/openwrt_inst/</link>
       <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/openwrt_inst/</guid>
-      <description>安装并配置openWrt</description>
+      <description>记录使用PE在x86软路由中安装OpenWrt 22.03，并完成IP地址、主路由和基础网络参数配置的过程。</description>
     </item>
     <item>
       <title>解决Hugo无法加载css文件</title>
       <link>https://qing.shuncs.com/post/hugo/hugocsserror/</link>
       <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugocsserror/</guid>
-      <description>Hugo中无法加载CSS文件</description>
+      <description>记录Hugo博客发布到GitHub Pages后CSS样式无法加载的排查过程，涉及站点地址、静态资源路径和配置文件修改。</description>
     </item>
   </channel>
 </rss>

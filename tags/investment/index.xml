@@ -11,49 +11,49 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:09:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:26 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/investment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年股票投资总结</title>
       <link>https://qing.shuncs.com/post/finance/invest2024/</link>
       <pubDate>Mon, 27 Jan 2025 21:02:45 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/invest2024/</guid>
-      <description>2024年总结</description>
+      <description>总结2024年股票模拟盘表现，记录12只股票的交易结果、8.88%年度收益率，以及仓位分配和收益率计算中的问题。</description>
     </item>
     <item>
       <title>基金定投收益分析及策略探讨</title>
       <link>https://qing.shuncs.com/post/finance/fundismoney/</link>
       <pubDate>Sun, 04 Feb 2024 09:15:32 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/fundismoney/</guid>
-      <description>基金定投收益率分析</description>
+      <description>基于2800多只基金的数据分析长期定投收益，比较指数型与混合型基金表现，并讨论定投标的、投资周期和卖出时机。</description>
     </item>
     <item>
       <title>2023年股票投资总结</title>
       <link>https://qing.shuncs.com/post/finance/invest2023/</link>
       <pubDate>Tue, 16 Jan 2024 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/invest2023/</guid>
-      <description>2023年股票投资总结</description>
+      <description>复盘2023年个人股票投资模型与资金分配方案，对比2022和2023年的交易明细、仓位配比及收益表现。</description>
     </item>
     <item>
       <title>如何计算股票投资收益率(下)</title>
       <link>https://qing.shuncs.com/post/finance/yield2/</link>
       <pubDate>Thu, 26 Oct 2023 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/yield2/</guid>
-      <description>计算股票投资收益率</description>
+      <description>进一步拆解股票收益率中的利润、交易成本、买入市值、仓位和资金余额，说明多次交易时如何评估投资表现。</description>
     </item>
     <item>
       <title>如何计算股票投资收益率(上)</title>
       <link>https://qing.shuncs.com/post/finance/yield/</link>
       <pubDate>Wed, 25 Oct 2023 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/yield/</guid>
-      <description>计算股票投资收益率</description>
+      <description>比较简单公式、券商算法、净值法和XIRR等股票投资收益率计算方法，并分析资金进出和持仓变化带来的计算问题。</description>
     </item>
     <item>
       <title>如何在股票交易中合理分配资金使得收益最大化</title>
       <link>https://qing.shuncs.com/post/finance/capital/</link>
       <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/capital/</guid>
-      <description>如何合理分配股票仓位</description>
+      <description>通过历史股票池回测多种仓位分配方案，分析如何按照模型评分配置资金，缓解资金耗尽与新股票无法买入的问题。</description>
     </item>
   </channel>
 </rss>

@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:01:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:41 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/categories/router/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WNDR4300变砖之后如何恢复</title>
       <link>https://qing.shuncs.com/post/router/wndr4300/</link>
       <pubDate>Wed, 11 Sep 2024 21:02:19 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/router/wndr4300/</guid>
-      <description>修复变砖的WNDR4300</description>
+      <description>记录网件WNDR4300 V1因配置错误无法联网和登录管理页面后，通过恢复模式、TFTP和官方固件完成救砖的步骤。</description>
     </item>
   </channel>
 </rss>

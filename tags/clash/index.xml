@@ -11,21 +11,21 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:08:43 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:53 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/clash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在openWrt上安装并配置Clash (Clash篇)</title>
       <link>https://qing.shuncs.com/post/tech/clashinst/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/clashinst/</guid>
-      <description>在x86机器上安装clash,并且做基础配置</description>
+      <description>记录在x86_64 OpenWrt 22.03软路由中安装Clash Premium、编写基础配置，并设置客户端代理连接的方法。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (openWrt篇)</title>
       <link>https://qing.shuncs.com/post/tech/openwrt_inst/</link>
       <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/openwrt_inst/</guid>
-      <description>安装并配置openWrt</description>
+      <description>记录使用PE在x86软路由中安装OpenWrt 22.03，并完成IP地址、主路由和基础网络参数配置的过程。</description>
     </item>
   </channel>
 </rss>

@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:07:59 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:47 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/%E7%BD%91%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在openWrt上安装并配置Clash (网关篇)</title>
       <link>https://qing.shuncs.com/post/tech/gatewayconf/</link>
       <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
-      <description>配置软路由网关</description>
+      <description>介绍OpenWrt旁路由的DHCP和网关配置，使指定电脑或手机经过Clash软路由，其余设备继续使用主路由上网。</description>
     </item>
   </channel>
 </rss>

@@ -11,42 +11,42 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:08:43 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:53 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/categories/openwrt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在openWrt上扩容磁盘容量</title>
       <link>https://qing.shuncs.com/post/tech/openwrtdisk/</link>
       <pubDate>Thu, 02 Feb 2023 09:13:34 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/openwrtdisk/</guid>
-      <description>扩容openWrt磁盘容量</description>
+      <description>介绍x86 OpenWrt安装后如何调整分区并扩展根文件系统，使系统使用磁盘剩余空间，并记录操作前的注意事项。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (网关篇)</title>
       <link>https://qing.shuncs.com/post/tech/gatewayconf/</link>
       <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
-      <description>配置软路由网关</description>
+      <description>介绍OpenWrt旁路由的DHCP和网关配置，使指定电脑或手机经过Clash软路由，其余设备继续使用主路由上网。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (Nftable篇)</title>
       <link>https://qing.shuncs.com/post/tech/nft4clash/</link>
       <pubDate>Mon, 30 Jan 2023 14:01:03 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/nft4clash/</guid>
-      <description>配置nftable</description>
+      <description>记录在OpenWrt中为Clash配置nftables透明代理规则，包括私有地址列表、TPROXY、开机启动和Dnsmasq转发设置。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (Clash篇)</title>
       <link>https://qing.shuncs.com/post/tech/clashinst/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/clashinst/</guid>
-      <description>在x86机器上安装clash,并且做基础配置</description>
+      <description>记录在x86_64 OpenWrt 22.03软路由中安装Clash Premium、编写基础配置，并设置客户端代理连接的方法。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (openWrt篇)</title>
       <link>https://qing.shuncs.com/post/tech/openwrt_inst/</link>
       <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/openwrt_inst/</guid>
-      <description>安装并配置openWrt</description>
+      <description>记录使用PE在x86软路由中安装OpenWrt 22.03，并完成IP地址、主路由和基础网络参数配置的过程。</description>
     </item>
   </channel>
 </rss>

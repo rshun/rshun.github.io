@@ -11,28 +11,28 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 19 Jun 2026 16:41:55 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:53 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何计算股票投资收益率(下)</title>
       <link>https://qing.shuncs.com/post/finance/yield2/</link>
       <pubDate>Thu, 26 Oct 2023 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/yield2/</guid>
-      <description>计算股票投资收益率</description>
+      <description>进一步拆解股票收益率中的利润、交易成本、买入市值、仓位和资金余额，说明多次交易时如何评估投资表现。</description>
     </item>
     <item>
       <title>如何计算股票投资收益率(上)</title>
       <link>https://qing.shuncs.com/post/finance/yield/</link>
       <pubDate>Wed, 25 Oct 2023 10:41:01 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/yield/</guid>
-      <description>计算股票投资收益率</description>
+      <description>比较简单公式、券商算法、净值法和XIRR等股票投资收益率计算方法，并分析资金进出和持仓变化带来的计算问题。</description>
     </item>
     <item>
       <title>使用KaTeX渲染数学公式</title>
       <link>https://qing.shuncs.com/post/hugo/hugolatex/</link>
       <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugolatex/</guid>
-      <description>在Hugo使用KaTeX渲染数学公式</description>
+      <description>介绍如何下载并本地部署KaTeX，在Hugo和PaperMod模板中加载相关资源，实现Markdown文章中的数学公式渲染。</description>
     </item>
     <item>
       <title>南京的市井</title>
@@ -46,63 +46,63 @@
       <link>https://qing.shuncs.com/post/apple/holiday/</link>
       <pubDate>Mon, 25 Sep 2023 09:20:27 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/apple/holiday/</guid>
-      <description>使用快捷方式自动打开节假日闹钟</description>
+      <description>介绍如何使用iPhone快捷指令和自动化，根据中国大陆节假日日历自动开启或关闭起床闹钟，适用于iOS 12及以上版本。</description>
     </item>
     <item>
       <title>在hugo里面添加中文web字体</title>
       <link>https://qing.shuncs.com/post/hugo/hugofont/</link>
       <pubDate>Tue, 04 Jul 2023 16:22:41 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugofont/</guid>
-      <description>在Hugo中添加中文web字体</description>
+      <description>说明如何在Hugo和PaperMod中引用中文Web字体，通过HTML加载字体文件，并使用CSS指定正文或页面区域的字体。</description>
     </item>
     <item>
       <title>如何在股票交易中合理分配资金使得收益最大化</title>
       <link>https://qing.shuncs.com/post/finance/capital/</link>
       <pubDate>Wed, 10 May 2023 20:54:02 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/finance/capital/</guid>
-      <description>如何合理分配股票仓位</description>
+      <description>通过历史股票池回测多种仓位分配方案，分析如何按照模型评分配置资金，缓解资金耗尽与新股票无法买入的问题。</description>
     </item>
     <item>
       <title>在openWrt上扩容磁盘容量</title>
       <link>https://qing.shuncs.com/post/tech/openwrtdisk/</link>
       <pubDate>Thu, 02 Feb 2023 09:13:34 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/openwrtdisk/</guid>
-      <description>扩容openWrt磁盘容量</description>
+      <description>介绍x86 OpenWrt安装后如何调整分区并扩展根文件系统，使系统使用磁盘剩余空间，并记录操作前的注意事项。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (网关篇)</title>
       <link>https://qing.shuncs.com/post/tech/gatewayconf/</link>
       <pubDate>Wed, 01 Feb 2023 14:14:02 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/gatewayconf/</guid>
-      <description>配置软路由网关</description>
+      <description>介绍OpenWrt旁路由的DHCP和网关配置，使指定电脑或手机经过Clash软路由，其余设备继续使用主路由上网。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (Nftable篇)</title>
       <link>https://qing.shuncs.com/post/tech/nft4clash/</link>
       <pubDate>Mon, 30 Jan 2023 14:01:03 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/nft4clash/</guid>
-      <description>配置nftable</description>
+      <description>记录在OpenWrt中为Clash配置nftables透明代理规则，包括私有地址列表、TPROXY、开机启动和Dnsmasq转发设置。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (Clash篇)</title>
       <link>https://qing.shuncs.com/post/tech/clashinst/</link>
       <pubDate>Thu, 19 Jan 2023 15:28:05 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/clashinst/</guid>
-      <description>在x86机器上安装clash,并且做基础配置</description>
+      <description>记录在x86_64 OpenWrt 22.03软路由中安装Clash Premium、编写基础配置，并设置客户端代理连接的方法。</description>
     </item>
     <item>
       <title>在openWrt上安装并配置Clash (openWrt篇)</title>
       <link>https://qing.shuncs.com/post/tech/openwrt_inst/</link>
       <pubDate>Thu, 19 Jan 2023 09:51:49 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/tech/openwrt_inst/</guid>
-      <description>安装并配置openWrt</description>
+      <description>记录使用PE在x86软路由中安装OpenWrt 22.03，并完成IP地址、主路由和基础网络参数配置的过程。</description>
     </item>
     <item>
       <title>解决Hugo无法加载css文件</title>
       <link>https://qing.shuncs.com/post/hugo/hugocsserror/</link>
       <pubDate>Mon, 16 Jan 2023 15:34:57 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugocsserror/</guid>
-      <description>Hugo中无法加载CSS文件</description>
+      <description>记录Hugo博客发布到GitHub Pages后CSS样式无法加载的排查过程，涉及站点地址、静态资源路径和配置文件修改。</description>
     </item>
   </channel>
 </rss>

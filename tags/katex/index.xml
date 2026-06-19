@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 13:59:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:37:37 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/katex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用KaTeX渲染数学公式</title>
       <link>https://qing.shuncs.com/post/hugo/hugolatex/</link>
       <pubDate>Tue, 24 Oct 2023 10:06:55 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/hugo/hugolatex/</guid>
-      <description>在Hugo使用KaTeX渲染数学公式</description>
+      <description>介绍如何下载并本地部署KaTeX，在Hugo和PaperMod模板中加载相关资源，实现Markdown文章中的数学公式渲染。</description>
     </item>
   </channel>
 </rss>
