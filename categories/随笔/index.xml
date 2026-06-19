@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>随笔 on 瞬间</title>
+    <link>https://qing.shuncs.com/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on 瞬间</description>
+    <image>
+      <title>瞬间</title>
+      <url>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://qing.shuncs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 19 Jun 2026 20:55:50 +0800</lastBuildDate>
+    <atom:link href="https://qing.shuncs.com/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026随笔：投资、AI和普通人的迷茫</title>
+      <link>https://qing.shuncs.com/post/essay/essay/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/post/essay/essay/</guid>
+      <description>记录2026年的投资挫折、指数基金思考，以及使用ChatGPT、Claude和Gemini之后，对AI、工作和生活的真实感受。</description>
+    </item>
+  </channel>
+</rss>

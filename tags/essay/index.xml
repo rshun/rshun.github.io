@@ -11,14 +11,21 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Mar 2025 14:00:05 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:55:50 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/essay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026随笔：投资、AI和普通人的迷茫</title>
+      <link>https://qing.shuncs.com/post/essay/essay/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/post/essay/essay/</guid>
+      <description>记录2026年的投资挫折、指数基金思考，以及使用ChatGPT、Claude和Gemini之后，对AI、工作和生活的真实感受。</description>
+    </item>
     <item>
       <title>南京的市井</title>
       <link>https://qing.shuncs.com/post/nj/njessay/</link>
       <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
       <guid>https://qing.shuncs.com/post/nj/njessay/</guid>
-      <description>南京市井气息和内敛</description>
+      <description>从秦淮河、夫子庙、北京西路和颐和路的街巷出发，记录南京的市井生活、城市气质与南京人的内敛和质朴。</description>
     </item>
   </channel>
 </rss>

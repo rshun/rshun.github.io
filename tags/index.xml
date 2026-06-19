@@ -11,13 +11,76 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 17 Mar 2026 20:42:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:55:50 +0800</lastBuildDate>
     <atom:link href="https://qing.shuncs.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026</title>
       <link>https://qing.shuncs.com/tags/2026/</link>
-      <pubDate>Mon, 05 Jan 2026 19:56:54 +0800</pubDate>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
       <guid>https://qing.shuncs.com/tags/2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://qing.shuncs.com/tags/ai/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI编程</title>
+      <link>https://qing.shuncs.com/tags/ai%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/ai%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT</title>
+      <link>https://qing.shuncs.com/tags/chatgpt/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude</title>
+      <link>https://qing.shuncs.com/tags/claude/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/claude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Essay</title>
+      <link>https://qing.shuncs.com/tags/essay/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/essay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gemini</title>
+      <link>https://qing.shuncs.com/tags/gemini/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/gemini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>随笔</title>
+      <link>https://qing.shuncs.com/tags/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>投资</title>
+      <link>https://qing.shuncs.com/tags/%E6%8A%95%E8%B5%84/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/%E6%8A%95%E8%B5%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>指数基金</title>
+      <link>https://qing.shuncs.com/tags/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91/</link>
+      <pubDate>Fri, 19 Jun 2026 14:22:54 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91/</guid>
       <description></description>
     </item>
     <item>
@@ -133,13 +196,6 @@
       <description></description>
     </item>
     <item>
-      <title>投资</title>
-      <link>https://qing.shuncs.com/tags/%E6%8A%95%E8%B5%84/</link>
-      <pubDate>Mon, 27 Jan 2025 21:02:45 +0800</pubDate>
-      <guid>https://qing.shuncs.com/tags/%E6%8A%95%E8%B5%84/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>2024</title>
       <link>https://qing.shuncs.com/tags/2024/</link>
       <pubDate>Wed, 11 Sep 2024 21:02:19 +0800</pubDate>
@@ -189,13 +245,6 @@
       <description></description>
     </item>
     <item>
-      <title>Essay</title>
-      <link>https://qing.shuncs.com/tags/essay/</link>
-      <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
-      <guid>https://qing.shuncs.com/tags/essay/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Nanjing</title>
       <link>https://qing.shuncs.com/tags/nanjing/</link>
       <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
@@ -210,10 +259,38 @@
       <description></description>
     </item>
     <item>
+      <title>南京人文</title>
+      <link>https://qing.shuncs.com/tags/%E5%8D%97%E4%BA%AC%E4%BA%BA%E6%96%87/</link>
+      <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/%E5%8D%97%E4%BA%AC%E4%BA%BA%E6%96%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>南京市井</title>
+      <link>https://qing.shuncs.com/tags/%E5%8D%97%E4%BA%AC%E5%B8%82%E4%BA%95/</link>
+      <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/%E5%8D%97%E4%BA%AC%E5%B8%82%E4%BA%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>秦淮河</title>
+      <link>https://qing.shuncs.com/tags/%E7%A7%A6%E6%B7%AE%E6%B2%B3/</link>
+      <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/%E7%A7%A6%E6%B7%AE%E6%B2%B3/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>散文</title>
       <link>https://qing.shuncs.com/tags/%E6%95%A3%E6%96%87/</link>
       <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
       <guid>https://qing.shuncs.com/tags/%E6%95%A3%E6%96%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>颐和路</title>
+      <link>https://qing.shuncs.com/tags/%E9%A2%90%E5%92%8C%E8%B7%AF/</link>
+      <pubDate>Thu, 28 Sep 2023 10:36:26 +0800</pubDate>
+      <guid>https://qing.shuncs.com/tags/%E9%A2%90%E5%92%8C%E8%B7%AF/</guid>
       <description></description>
     </item>
     <item>
